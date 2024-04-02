@@ -1,2 +1,2 @@
 # Generated-High-Quality-3D-Face-Dataset
-Generated high-quality 3D face dataset for enhancing VGAE architectures in reconstructing 3D faces.
+This repository presents a carefully curated dataset specifically designed to support the research goals outlined in my dissertation titled "Enhancing the Performance of VGAE Architectures for Reconstruction of High-Quality 3D Faces." The dataset serves as a pivotal training resource for my research, aiming to improve the performance of Variational Graph Autoencoder (VGAE) architectures in reconstructing high-quality 3D facial models.
